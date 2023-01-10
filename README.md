@@ -1,4 +1,1 @@
-# UnoOO
-Disciplina de LPOO 2022.2
-
-[Doc](/UnoOO/doc)
+Criação de um simulador de UNO usando Orientação a Objetos em Java
